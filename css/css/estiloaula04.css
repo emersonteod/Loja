@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0 ; /*remove a margem do body*/
+    padding: 0; /*remove o preenchimento do body*/
+}
+header{
+    text-align: center;/*alinha o conteudo ao centro */
+    padding: 20px;/*adiciona 20 pixels de preenchimento*/
+    background-color: black;/*cor do fundo do header*/
+    color: aliceblue;/*definimos a cor do texto*/
+}
+header h1{
+    font-size: 39px;
+    color: orange;
+
+}
